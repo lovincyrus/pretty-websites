@@ -68,8 +68,12 @@ Pretty websites ✨
 | Lionel Durimel | http://durimel.io/nel |
 | Dada-Data | http://dada-data.net/en/hub |
 | Werksatt | https://www.werkstatt.fr/ |
+| Anand Sharma | http://aprilzero.com/ |
+| Feltron | http://feltron.com/ |
+| Drew Wilson | http://drewwilson.com/ |
+| Sebastian Dobrincu | https://sebastiandobrincu.com/ |
 
 
 ## Resources
 + [15 unique website layouts](https://webflow.com/blog/15-unique-website-layouts)
-+ [Web deisgn trends for 2017](https://www.awwwards.com/web-design-trends-for-2017.html)
++ [Web design trends for 2017](https://www.awwwards.com/web-design-trends-for-2017.html)
