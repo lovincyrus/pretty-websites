@@ -72,7 +72,8 @@ Pretty websites ✨
 | Feltron | http://feltron.com/ |
 | Drew Wilson | http://drewwilson.com/ |
 | Sebastian Dobrincu | https://sebastiandobrincu.com/ |
-
+| Hotchkiss | http://www.hotchkiss.co.jp/ |
+| Eien | http://eien.tokyo/ |
 
 ## Resources
 + [15 unique website layouts](https://webflow.com/blog/15-unique-website-layouts)
