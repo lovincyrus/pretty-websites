@@ -35,7 +35,7 @@ Pretty websites ✨
 | Awkward | https://awkward.co/ |
 | Tom Bates | https://tombates.co/ |
 | Hakim El Hattab | http://hakim.se/ |
-| Shubham Naik | http://shub.club/ |
+| Shubham Naik (merced) | http://shub.club/ |
 | Where the fuck is Martin? | https://wherethefuckismartin.com/ |
 | Ji-Sung Kim | https://jisungkim.com/ |
 | Cuberto | http://cuberto.com/ |
