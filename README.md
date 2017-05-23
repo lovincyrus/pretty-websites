@@ -74,6 +74,14 @@ Pretty websites ✨
 | Sebastian Dobrincu | https://sebastiandobrincu.com/ |
 | Hotchkiss | http://www.hotchkiss.co.jp/ |
 | Eien | http://eien.tokyo/ |
+| Rdegges | https://www.rdegges.com/ |
+| Narrow Design | http://www.narrowdesign.com/ |
+| Cris | crislabno.com |
+| Ammaar | http://ammaar.me/ |
+| Acha | http://achalv.com/ |
+| Athyuttam | http://athyuttamre.com/ |
+
+
 
 ## Resources
 + [15 unique website layouts](https://webflow.com/blog/15-unique-website-layouts)
