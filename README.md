@@ -3,7 +3,7 @@ Pretty websites ✨
 
 | Site | URL |
 | ------ | ------ |
-| Chris Wong | <<https://www.chriswong.tv/> |
+| Chris Wong | <https://www.chriswong.tv/> |
 | Cordell Yee | <http://cordellyee.com/> |
 | Shawn Park | <http://www.designbyroka.com/> |
 | Robby Leonardi | <http://www.rleonardi.com/interactive-resume/> |
