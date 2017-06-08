@@ -3,7 +3,7 @@ Pretty websites ✨
 
 | Site | URL |
 | ------ | ------ |
-| Chris Wong | https://www.chriswong.tv/ |
+| Chris Wong | <https://www.chriswong.tv/> |
 | Cordell Yee | http://cordellyee.com/ |
 | Shawn Park | http://www.designbyroka.com/ |
 | Robby Leonardi | http://www.rleonardi.com/interactive-resume/ |
@@ -31,7 +31,6 @@ Pretty websites ✨
 | Josh Holloran | http://ohdes.co/ |
 | Nicole He | http://nicole.pizza/ |
 | Chino Kim | http://chino.kim/ |
-| Rohit Tigga | http://www.rohittigga.com/ |
 | Awkward | https://awkward.co/ |
 | Tom Bates | https://tombates.co/ |
 | Hakim El Hattab | http://hakim.se/ |
@@ -76,11 +75,14 @@ Pretty websites ✨
 | Eien | http://eien.tokyo/ |
 | Rdegges | https://www.rdegges.com/ |
 | Narrow Design | http://www.narrowdesign.com/ |
-| Cris | crislabno.com |
+| Cris | http://www.crislabno.com/ |
 | Ammaar | http://ammaar.me/ |
 | Acha | http://achalv.com/ |
 | Athyuttam | http://athyuttamre.com/ |
-
+| Tholman | http://tholman.com/ |
+| Hyungtak | http://hyungtak.com/ |
+| Merci | http://www.merci-michel.com/ |
+| veintidosgrados | http://www.veintidosgrados.com/ |
 
 
 ## Resources
