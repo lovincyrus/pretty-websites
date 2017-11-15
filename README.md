@@ -83,6 +83,7 @@ Pretty websites ✨
 | Hyungtak | <http://hyungtak.com/> |
 | Merci | <http://www.merci-michel.com/> |
 | veintidosgrados | <http://www.veintidosgrados.com/> |
+| rent desserrey | <http://laurent.directory/> |
 
 
 ## Resources
