@@ -84,6 +84,7 @@ Pretty websites ✨
 | Merci | <http://www.merci-michel.com/> |
 | veintidosgrados | <http://www.veintidosgrados.com/> |
 | rent desserrey | <http://laurent.directory/> |
+| Lynn Fisher | <https://lynnandtonic.com/> |
 
 
 ## Resources
