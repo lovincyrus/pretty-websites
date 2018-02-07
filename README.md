@@ -88,11 +88,11 @@ Pretty websites ✨
 
 
 ## Makers
-| Jordan Singer | https://ibuildmyideas.com/ |
-| Sindre Sorhus | https://sindresorhus.com |
-| Henry Kaufman | http://kaufman.io/ |
-| Sebastian Dobrincu | https://sebastiandobrincu.com/ |
-| Jordan Gonen | http://www.jordangonen.com/ |
+| Jordan Singer | <https://ibuildmyideas.com/> |
+| Sindre Sorhus | <https://sindresorhus.com> |
+| Henry Kaufman | <http://kaufman.io/> |
+| Sebastian Dobrincu | <https://sebastiandobrincu.com/> |
+| Jordan Gonen | <http://www.jordangonen.com/> |
 
 
 
