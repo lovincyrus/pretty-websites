@@ -88,6 +88,8 @@ Pretty websites ✨
 
 
 ## Makers
+| Site | URL |
+| ------ | ------ |
 | Jordan Singer | <https://ibuildmyideas.com/> |
 | Sindre Sorhus | <https://sindresorhus.com> |
 | Henry Kaufman | <http://kaufman.io/> |
