@@ -87,6 +87,15 @@ Pretty websites ✨
 | Lynn Fisher | <https://lynnandtonic.com/> |
 
 
+## Makers
+| Jordan Singer | https://ibuildmyideas.com/ |
+| Sindre Sorhus | https://sindresorhus.com |
+| Henry Kaufman | http://kaufman.io/ |
+| Sebastian Dobrincu | https://sebastiandobrincu.com/ |
+| Jordan Gonen | http://www.jordangonen.com/ |
+
+
+
 ## Resources
 + [15 unique website layouts](<https://webflow.com/blog/15-unique-website-layouts)
 + [Web design trends for 2017](<https://www.awwwards.com/web-design-trends-for-2017.html)
