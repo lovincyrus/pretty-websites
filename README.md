@@ -88,6 +88,7 @@ Pretty websites ✨
 
 
 ## Makers
+
 | Site | URL |
 | ------ | ------ |
 | Jordan Singer | <https://ibuildmyideas.com/> |
@@ -97,8 +98,7 @@ Pretty websites ✨
 | Jordan Gonen | <http://www.jordangonen.com/> |
 
 
-
 ## Resources
-+ [15 unique website layouts](<https://webflow.com/blog/15-unique-website-layouts)
-+ [Web design trends for 2017](<https://www.awwwards.com/web-design-trends-for-2017.html)
-+ [Design for Emotion](<https://medium.com/google-design/design-for-emotion-7ba0cf40e05b)
++ [15 unique website layouts](https://webflow.com/blog/15-unique-website-layouts)
++ [Web design trends for 2017](https://www.awwwards.com/web-design-trends-for-2017.html)
++ [Design for Emotion](https://medium.com/google-design/design-for-emotion-7ba0cf40e05b)
