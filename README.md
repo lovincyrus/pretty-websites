@@ -85,6 +85,10 @@ Pretty websites ✨
 | veintidosgrados | <http://www.veintidosgrados.com/> |
 | rent desserrey | <http://laurent.directory/> |
 | Lynn Fisher | <https://lynnandtonic.com/> |
+| Hasque | <http://hasque.com/> |
+| Sándor Gyuris | <http://sandorgyuris.com/> |
+| Ethelia | <http://ethelialung.com/> |
+| Rocky | <http://rocky.me/> |
 
 
 ## Makers
