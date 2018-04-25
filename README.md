@@ -89,6 +89,10 @@ Pretty websites ✨
 | Sándor Gyuris | <http://sandorgyuris.com/> |
 | Ethelia | <http://ethelialung.com/> |
 | Rocky | <http://rocky.me/> |
+| Michael Li | <http://www.mich.li/> |
+| Patrick Heng | <https://patrickheng.com/> |
+| Julie Delanoy | <http://julie.design/> |
+| Rafael Conde | https://rafaelconde.net/ | 
 
 
 ## Makers
@@ -106,3 +110,5 @@ Pretty websites ✨
 + [15 unique website layouts](https://webflow.com/blog/15-unique-website-layouts)
 + [Web design trends for 2017](https://www.awwwards.com/web-design-trends-for-2017.html)
 + [Design for Emotion](https://medium.com/google-design/design-for-emotion-7ba0cf40e05b)
++ [UI/UX Design Portfolio Inspiration and Showcase](http://bestfolios.com/home)
++ [NICE! by danielruston](http://nice.danielruston.com/)
