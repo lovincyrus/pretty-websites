@@ -92,7 +92,7 @@ Pretty websites ✨
 | Michael Li | <http://www.mich.li/> |
 | Patrick Heng | <https://patrickheng.com/> |
 | Julie Delanoy | <http://julie.design/> |
-| Rafael Conde | https://rafaelconde.net/ | 
+| Rafael Conde | <https://rafaelconde.net/> | 
 
 
 ## Makers
