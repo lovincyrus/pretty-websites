@@ -93,6 +93,7 @@ Pretty websites ✨
 | Patrick Heng | <https://patrickheng.com/> |
 | Julie Delanoy | <http://julie.design/> |
 | Rafael Conde | <https://rafaelconde.net/> | 
+| Pete Kim | <http://pete.kim.cloud> |
 
 
 ## Makers
