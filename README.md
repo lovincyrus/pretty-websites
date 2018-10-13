@@ -94,6 +94,7 @@ Pretty websites ✨
 | Julie Delanoy | <http://julie.design/> |
 | Rafael Conde | <https://rafaelconde.net/> | 
 | Pete Kim | <http://pete.kim.cloud> |
+| Matthew Vernon | <http://matthewvernon.co/> |
 
 
 ## Makers
