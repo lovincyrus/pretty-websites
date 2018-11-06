@@ -95,6 +95,9 @@ Pretty websites ✨
 | Rafael Conde | <https://rafaelconde.net/> | 
 | Pete Kim | <http://pete.kim.cloud> |
 | Matthew Vernon | <http://matthewvernon.co/> |
+| Jonny McLaughlin | <https://jonny.wtf/> |
+| Jemma Kwak | <http://jemmakwak.me/> |
+| Ryan Wiemer | <https://www.ryanwiemer.com> |
 
 
 ## Makers
