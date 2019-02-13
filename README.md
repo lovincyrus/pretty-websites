@@ -98,6 +98,7 @@ Pretty websites ✨
 | Jonny McLaughlin | <https://jonny.wtf/> |
 | Jemma Kwak | <http://jemmakwak.me/> |
 | Ryan Wiemer | <https://www.ryanwiemer.com> |
+| Susan Lin | <http://bysusanlin.com> |
 
 
 ## Makers
