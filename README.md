@@ -99,6 +99,7 @@ Pretty websites ✨
 | Jemma Kwak | <http://jemmakwak.me/> |
 | Ryan Wiemer | <https://www.ryanwiemer.com> |
 | Susan Lin | <http://bysusanlin.com> |
+| Frank Chimero | <https://frankchimero.com/> |
 
 
 ## Makers
