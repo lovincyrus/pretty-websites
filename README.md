@@ -100,6 +100,7 @@ Pretty websites ✨
 | Ryan Wiemer | <https://www.ryanwiemer.com> |
 | Susan Lin | <http://bysusanlin.com> |
 | Frank Chimero | <https://frankchimero.com/> |
+| Shirley Xueyang Wu | <http://sxywu.com> |
 
 
 ## Makers
