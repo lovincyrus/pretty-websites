@@ -101,6 +101,7 @@ Pretty websites ✨
 | Susan Lin | <http://bysusanlin.com> |
 | Frank Chimero | <https://frankchimero.com/> |
 | Shirley Xueyang Wu | <http://sxywu.com> |
+| ustwo | <https://www.ustwo.com/> |
 
 
 ## Makers
