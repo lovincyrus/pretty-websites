@@ -102,6 +102,7 @@ Pretty websites ✨
 | Frank Chimero | <https://frankchimero.com/> |
 | Shirley Xueyang Wu | <http://sxywu.com> |
 | ustwo | <https://www.ustwo.com/> |
+| Rafael Conde | <https://rafaelconde.net/> |
 
 
 ## Makers
