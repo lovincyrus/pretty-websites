@@ -104,6 +104,7 @@ Pretty websites ✨
 | ustwo | <https://www.ustwo.com/> |
 | Rafael Conde | <https://rafaelconde.net/> |
 | Brian Lovin | <https://brianlovin.com/> |
+| Zeh Fernando | <http://portfolio.zehfernando.com> |
 
 
 ## Makers
