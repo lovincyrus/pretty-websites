@@ -105,6 +105,7 @@ Pretty websites ✨
 | Rafael Conde | <https://rafaelconde.net/> |
 | Brian Lovin | <https://brianlovin.com/> |
 | Zeh Fernando | <http://portfolio.zehfernando.com> |
+| Dharma | <https://www.dharma.io/> |
 
 
 ## Makers
