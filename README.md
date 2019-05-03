@@ -117,6 +117,7 @@ Pretty websites ✨
 | Henry Kaufman | <http://kaufman.io/> |
 | Sebastian Dobrincu | <https://sebastiandobrincu.com/> |
 | Jordan Gonen | <http://www.jordangonen.com/> |
+| Alyssa X | <https://alyssax.com> |
 
 
 ## Resources
