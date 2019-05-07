@@ -106,6 +106,7 @@ Pretty websites ✨
 | Brian Lovin | <https://brianlovin.com/> |
 | Zeh Fernando | <http://portfolio.zehfernando.com> |
 | Dharma | <https://www.dharma.io/> |
+| Patry Kadas | <http://patrykadas.com/> |
 
 
 ## Makers
