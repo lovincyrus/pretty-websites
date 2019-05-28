@@ -128,3 +128,4 @@ Pretty websites ✨
 + [UI/UX Design Portfolio Inspiration and Showcase](http://bestfolios.com/home)
 + [NICE! by danielruston](http://nice.danielruston.com/)
 + [Httpster](https://httpster.net)
++ [Hover States](https://hoverstat.es/)
