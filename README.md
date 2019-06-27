@@ -107,6 +107,7 @@ Pretty websites ✨
 | Zeh Fernando | <http://portfolio.zehfernando.com> |
 | Dharma | <https://www.dharma.io/> |
 | Patry Kadas | <http://patrykadas.com/> |
+| TQ | <https://tq.co/> |
 
 
 ## Makers
