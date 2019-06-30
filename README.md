@@ -108,6 +108,7 @@ Pretty websites ✨
 | Dharma | <https://www.dharma.io/> |
 | Patry Kadas | <http://patrykadas.com/> |
 | TQ | <https://tq.co/> |
+| Steve Selzer | <https://www.steveselzer.com> |
 
 
 ## Makers
