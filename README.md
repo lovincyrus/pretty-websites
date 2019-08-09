@@ -109,6 +109,7 @@ Pretty websites ✨
 | Patry Kadas | <http://patrykadas.com/> |
 | TQ | <https://tq.co/> |
 | Steve Selzer | <https://www.steveselzer.com> |
+| Nick McMillan | <https://nick.computer/> |
 
 
 ## Makers
