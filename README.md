@@ -111,6 +111,7 @@ Pretty websites ✨
 | Steve Selzer | <https://www.steveselzer.com> |
 | Nick McMillan | <https://nick.computer/> |
 | Cole Bemis | <https://colebemis.com/> |
+| Bruno Simon | <https://bruno-simon.com/> |
 
 
 ## Makers
