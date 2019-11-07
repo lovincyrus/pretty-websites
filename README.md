@@ -112,6 +112,7 @@ Pretty websites ✨
 | Nick McMillan | <https://nick.computer/> |
 | Cole Bemis | <https://colebemis.com/> |
 | Bruno Simon | <https://bruno-simon.com/> |
+| Jayson Hobby | <https://jaysonhobby.com/> |
 
 
 ## Makers
