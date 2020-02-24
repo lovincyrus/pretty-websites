@@ -113,6 +113,7 @@ Pretty websites ✨
 | Cole Bemis | <https://colebemis.com/> |
 | Bruno Simon | <https://bruno-simon.com/> |
 | Jayson Hobby | <https://jaysonhobby.com/> |
+| Vitor Lourenço | <https://vitor.com> |
 
 
 ## Makers
