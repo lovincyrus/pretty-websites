@@ -16,9 +16,6 @@ Pretty websites ✨
 | Avi Romanoff | <https://avi.bio/> |
 | Cassidy Williams | <http://cassidoo.co/> |
 | Eric Liang | <http://ericls.com/> |
-| Joyce Zhou | <https://joyceyzhou.github.io/> |
-| Jess He | <http://www.jessheisme.com/> |
-| Web Design Decal | <http://www.wdd.io/> |
 | Jonathan Patterson | <http://www.jonathanpatterson.com/> |
 | Maggie Appleton | <http://www.maggieappleton.com/> |
 | Matt Wei | <http://mattwei.com/> |
