@@ -124,6 +124,9 @@ Pretty websites ✨
 | Chris Weston | <http://www.cweston.co.uk> |
 | Claudio Guglieri | <https://guglieri.com> |
 | Coleen Baik | <https://coleenbaik.com> |
+| Danny Jones | <https://yasly.com> |
+| Damjan Stankovic | <https://www.damjanstankovic.com> |
+| Duaa Zaheer | <https://www.duaa.design> |
 
 
 ## Makers
