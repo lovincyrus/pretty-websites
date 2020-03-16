@@ -114,6 +114,16 @@ Pretty websites ✨
 | Bruno Simon | <https://bruno-simon.com/> |
 | Jayson Hobby | <https://jaysonhobby.com/> |
 | Vitor Lourenço | <https://vitor.com> |
+| Ashwini Purohit | <https://www.ashwinipurohit.com> |
+| Bek Stone | <https://bek.is> |
+| Brandon Walkin | <http://www.brandonwalkin.com> |
+| Brent Jackson | <https://jxnblk.com> |
+| Caylee Betts | <http://www.cayleebetts.com> |
+| Charlie Deets | <https://charliedeets.com> |
+| Chris Welch | <https://www.chriswelch.co> |
+| Chris Weston | <http://www.cweston.co.uk> |
+| Claudio Guglieri | <https://guglieri.com> |
+| Coleen Baik | <https://coleenbaik.com> |
 
 
 ## Makers
