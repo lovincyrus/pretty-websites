@@ -124,6 +124,7 @@ Pretty websites ✨
 | Danny Jones | <https://yasly.com> |
 | Damjan Stankovic | <https://www.damjanstankovic.com> |
 | Duaa Zaheer | <https://www.duaa.design> |
+| Traf | <https://tr.af> |
 
 
 ## Makers
