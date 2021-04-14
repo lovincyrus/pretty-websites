@@ -125,6 +125,7 @@ Pretty websites ✨
 | Damjan Stankovic | <https://www.damjanstankovic.com> |
 | Duaa Zaheer | <https://www.duaa.design> |
 | Traf | <https://tr.af> |
+| Yamauchi 10 | <https://y-n10.com/> |
 
 
 ## Makers
