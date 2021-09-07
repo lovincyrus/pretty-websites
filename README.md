@@ -128,6 +128,7 @@ Pretty websites ✨
 | Yamauchi 10 | <https://y-n10.com> |
 | Fabrizio Rinaldi | <https://www.fabrizio.so> |
 | Timo Lins | <https://timo.sh> |
+| Andrew Sutherland | <https://asuth.com> |
 
 
 ## Makers
